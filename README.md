@@ -31,12 +31,3 @@ O modelo é treinado com dados simulados e realiza a previsão com base em uma n
 | `pressao_alta`           | Pressão arterial elevada      |
 
 Cada doença é representada por uma combinação específica desses sintomas.
-
----
-
-## 🚀 Como executar
-
-### 1. Clonar o repositório
-```bash
-git clone https://github.com/seu-usuario/diagnostico-doencas-arvore.git
-cd diagnostico-doencas-arvore
